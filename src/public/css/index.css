@@ -109,8 +109,8 @@
     width: 100%;
     border: none;
     border-radius: 3px;
-    background: #0000ff;
-    color: #fff;
+    background: #0000ff; !important;
+    color: #fff; !important
     cursor: pointer;
 }
 
