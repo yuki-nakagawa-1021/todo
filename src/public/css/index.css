@@ -85,28 +85,28 @@
     width: 90%;
 }
 
-.updata-form {
+.update-form {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.updata-form__item {
+.update-form__item {
     width: 80%;
     line-height: 50%;
 }
 
-.updata-form__item-input {
+.update-form__item-input {
     width: 100%;
     outline: none;
     border: none;
 }
 
-.updata-form__button {
+.update-form__button {
     width: 50%;
 }
 
-.updata-form__button-submit {
+.update-form__button-submit {
     padding: 5px;
     width: 100%;
     border: none;
