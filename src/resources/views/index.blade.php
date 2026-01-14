@@ -27,9 +27,9 @@
             </tr>
             <tr class="todo-table__row">
                 <td class="todo-table__item">
-                    <form class="updata-form">
-                        <div class="updata-form__item">
-                            <input class="updata-form__item-input" type="text" name="content" value="test">
+                    <form class="update-form">
+                        <div class="update-form__item">
+                            <input class="update-form__item-input" type="text" name="content" value="test">
                         </div>
                         <div class="update-form__button">
                             <button class="update-form__button-submit" type="submit">更新</button>
@@ -46,9 +46,9 @@
             </tr>
             <tr class="todo-table__row">
                 <td class="todo-table__item">
-                    <form class="updata-form">
-                        <div class="updata-form__item">
-                            <input class="updata-form__item-input" type="text" name="content" value="test2">
+                    <form class="update-form">
+                        <div class="update-form__item">
+                            <input class="update-form__item-input" type="text" name="content" value="test2">
                         </div>
                         <div class="update-form__button">
                             <button class="update-form__button-submit" type="submit">更新</button>
