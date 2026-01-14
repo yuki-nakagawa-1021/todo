@@ -13,7 +13,7 @@
 }
 
 .todo__alert--danger ul {
-    margin: 0;
+    margin: 0 auto;
 }
 
 .todo__content {
