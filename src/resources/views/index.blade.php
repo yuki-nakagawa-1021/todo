@@ -17,7 +17,7 @@
             <input class="create-form__item-input" type="text" name="content">
         </div>
         <div class="create-form__button">
-            <button class="create-form__button-submit type="submit”>作成</button>
+            <button class="create-form__button-submit" type="submit">作成</button>
         </div>
     </form>
     <div class="todo-table">
