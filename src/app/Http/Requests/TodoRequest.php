@@ -24,7 +24,7 @@ class TodoRequest extends FormRequest
     public function rules()
     {
         return [
-            'content' => ['request','string','max:20']
+            'content' => ['required','string','max:20']
             ];
     }
 
